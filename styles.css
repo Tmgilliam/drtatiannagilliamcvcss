@@ -1,0 +1,152 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: 40514e;
+}
+
+h1 {
+    
+    margin: 50px auto 0 auto;
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;   
+    color: #CF4DCE;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #CF4DCE;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #3C79F5;
+}
+
+.top-container{
+    background-color: #0081C9;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    line-height: 2;
+    margin: 100px 0;
+}
+
+.bottom-container{
+    color:#CF4DCE;
+}
+
+a{
+    text-emphasis-color: #CF4DCE;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#d413b4;
+}
+
+
+.skill-row{
+    margin: 30px auto 0 auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    clear: left;
+}
+
+.workexperience-row{
+    margin: 30px auto 0 auto;
+    width: 100%;
+    line-height: 2;
+    text-align: left;
+}
+
+.projectmanagerimg{
+    margin: 30px auto 5 auto;
+    width: 60%;
+    float: left;
+    padding-left: 20%;
+    padding-bottom: 5%;
+}
+
+.volunteer{
+    
+    margin: 30px auto 5 auto;
+    width: 25%;
+}
+
+.bio{
+    width: 70%;
+    text-align: left;
+    margin: auto;
+}
+
+hr{
+    border: dotted #FB2576 6px;
+    border-bottom: none;
+    width: 70%;
+    margin: 100px auto;
+}
+
+
+.contact-me{
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: #d413b4;
+    background-image: -webkit-linear-gradient(top, #d413b4, #50119c);
+    background-image: -moz-linear-gradient(top, #d413b4, #50119c);
+    background-image: -ms-linear-gradient(top, #d413b4, #50119c);
+    background-image: -o-linear-gradient(top, #d413b4, #50119c);
+    background-image: linear-gradient(to bottom, #d413b4, #50119c);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #f23cfc;
+    background-image: -webkit-linear-gradient(top, #f23cfc, #3552e3);
+    background-image: -moz-linear-gradient(top, #f23cfc, #3552e3);
+    background-image: -ms-linear-gradient(top, #f23cfc, #3552e3);
+    background-image: -o-linear-gradient(top, #f23cfc, #3552e3);
+    background-image: linear-gradient(to bottom, #f23cfc, #3552e3);
+    text-decoration: none;
+  }
+
+  .copyright{
+    color:#d413b4;
+    font-size: 0.75rem;
+    padding:20px 0;
+  }
+
+  .workexperienceimg{
+    margin: 30px auto 5 auto;
+    width: 20%;
+    padding-left: 40%;
+    padding-bottom: 5%;
+
+  }
+
+
+
+
+  /***********************************Sections to add to the html*********************************/
+  /*Relevant projects, Books and articles, Speaking engagments, Awards, Affliations*/
